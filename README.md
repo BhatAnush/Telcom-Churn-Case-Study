@@ -107,3 +107,8 @@ The above model will only be able to achieve one of the two goals - to predict c
 After identifying important predictors, display them visually - we can use plots, summary tables etc. - whatever we think best conveys the importance of features.
 
 Finally, recommend strategies to manage customer churn based on our observations.
+
+## Assignment done by:
+Anusha K Bhat
+
+Muskaan Sharma
